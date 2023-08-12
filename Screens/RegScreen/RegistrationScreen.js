@@ -71,7 +71,7 @@ export const RegistrationScreen = () => {
                   </TouchableOpacity>
                 </View>
                 <TouchableOpacity style={button}>
-                  <Text style={buttonText}>Зареєстуватися</Text>
+                  <Text style={buttonText}>Зареєструватися</Text>
                 </TouchableOpacity>
               </View>
 
